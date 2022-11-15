@@ -5,7 +5,7 @@
 
 ## Desafio
 
-- Desenvolver um SDK na linguagem com com o objetivo de se adptar a qualquer usuário. Esse projeto está sendo desenvolvimento em 5 linguagens, GO, NodeJS, Python, C# e Java.
+- Desenvolver um SDK na linguagem com o objetivo de se adptar a qualquer usuário. Esse projeto está sendo desenvolvimento em 5 linguagens, GO, NodeJS, Python, C# e Java.
 
 
 ### Diferencias
